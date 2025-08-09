@@ -6,9 +6,9 @@ _Read this in other languages: [English](#english) | [한국어](#한국어)_
 
 ## 한국어
 
-리듬감 있는 탭과 윈도우 관리자 Chrome 확장 프로그램으로 브라우징 경험을 새롭게 만들어보세요! 🎵
+수많은 탭 때문에 정신 없으신가요? Tabourine은 복잡한 브라우징에 질서를 잡아주는 우아한 탭 관리자입니다. Chrome 탭 정리를 쉽고 즐거운 경험으로 바꿔보세요! 🎵
 
-Tabourine으로 브라우징을 변화시켜보세요 – Chrome 탭 정리를 쉽고 즐겁게 만드는 우아한 탭 관리자입니다!
+"Cluster - Window & Tab Manager"의 대안을 찾고 계신가요? Tabourine은 Manifest V3 기반으로 제작되어 보안과 성능이 한층 강화된, 완벽한 최신 대체 프로그램입니다.
 
 ### ✨ 주요 기능
 
@@ -23,7 +23,7 @@ Tabourine으로 브라우징을 변화시켜보세요 – Chrome 탭 정리를 �
 
 ### 📦 설치 방법
 
-Chrome 웹 스토어에서 "Tabourine"을 검색하고 "Chrome에 추가"를 클릭하세요.
+[Chrome 웹 스토어에서 설치하기](https://chromewebstore.google.com/detail/tabourine/cebbkbiieljkobcmmfgijnpbobocgccf)
 
 ### ⌨️ 키보드 단축키
 
@@ -63,9 +63,9 @@ Tabourine은 개인정보를 보호하며 보안을 염두에 두고 구축되�
 
 ## English
 
-A rhythmic tab and window manager Chrome extension that helps you shake up your browsing experience! 🎵
+Drowning in tabs? Tabourine is the elegant tab manager that brings order to your browse chaos and makes organizing Chrome tabs effortless and enjoyable! 🎵
 
-Transform your browsing with Tabourine – the elegant tab manager that makes organizing Chrome tabs effortless and enjoyable!
+Looking for an alternative to "Cluster - Window & Tab Manager"? Tabourine is the perfect modern replacement, built with Manifest V3 for enhanced security and performance.
 
 ### ✨ Features
 
@@ -80,7 +80,7 @@ Transform your browsing with Tabourine – the elegant tab manager that makes or
 
 ### 📦 Installation
 
-Search for "Tabourine" in the Chrome Web Store and click "Add to Chrome".
+[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/tabourine/cebbkbiieljkobcmmfgijnpbobocgccf)
 
 ### ⌨️ Keyboard Shortcuts
 
